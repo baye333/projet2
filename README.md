@@ -16,7 +16,7 @@ Ce projet consiste à créer un mini site personnel en HTML et CSS présentant n
 
 ## 🚀 Mise en ligne
 
-Ce mini-projet peut être hébergé gratuitement via [Netlify].
+Ce mini-projet peut être hébergé gratuitement via [Netlify](https://projet-profil.netlify.app/).
 
 ## 📂 Contenu typique
 
